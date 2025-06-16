@@ -39,3 +39,10 @@ npx playwright test src/tests/diary.spec.ts
 
 # Run with debugging
 npx playwright test --debug
+
+🤖 AI Validation Setup
+Install LM Studio
+
+Load a suitable LLM model (e.g., Phi-3, Llama 3)
+
+Ensure the local server is running on http://localhost:1234
